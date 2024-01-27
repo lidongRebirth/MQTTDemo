@@ -1,4 +1,4 @@
-package com.sxygsj.android.project.mqttdemo
+package com.lidongrebirth.android.project.mqttdemo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.sxygsj.android.project.mqttdemo
+package com.lidongrebirth.android.project.mqttdemo
 
 
 /**
@@ -16,7 +16,7 @@ interface Const {
         companion object {
 
             //填写服务端地址，如果是本地服务端测试，请写具体IP而不要写127.0.0.1
-            const val SERVER_URL = "tcp://192.168.1.6:1883"
+            const val SERVER_URL = "tcp://192.168.14.57:1883"
         }
     }
     /**

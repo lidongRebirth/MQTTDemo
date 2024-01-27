@@ -1,4 +1,4 @@
-package com.sxygsj.android.project.mqttdemo
+package com.lidongrebirth.android.project.mqttdemo
 
 import org.junit.Test
 

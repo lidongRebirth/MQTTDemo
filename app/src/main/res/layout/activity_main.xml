@@ -5,8 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context="com.lidongrebirth.android.project.mqttdemo.MainActivity">
 
+    <Button
+        android:id="@+id/btnStartService"
+        android:text="启动service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
     <Button
         android:id="@+id/btnCreate"
         android:text="创建Client客户端对象"
